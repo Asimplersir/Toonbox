@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 113037
-# 更新时间: 2025-02-03 19:56:46
+# 规则数量: 113041
+# 更新时间: 2025-02-04 07:56:59
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -10235,6 +10235,7 @@ payload:
   - DOMAIN,aiwutgxp.love
   - DOMAIN,aixcdn.com
   - DOMAIN,aixuntupian.oss-cn-hongkong.aliyuncs.com
+  - DOMAIN,aizhantj.com
   - DOMAIN,aj.wellhealthysunday.com
   - DOMAIN,aj1070.online
   - DOMAIN,aj1090.online
@@ -21393,6 +21394,7 @@ payload:
   - DOMAIN,chemtoaxeehy.com
   - DOMAIN,chengadx.com
   - DOMAIN,chengaib.net
+  - DOMAIN,chenhao97.top
   - DOMAIN,cheonan.smonky.space
   - DOMAIN,cheorwon.plinest.space
   - DOMAIN,chequeholding.com
@@ -103973,6 +103975,7 @@ payload:
   - DOMAIN,usphfiona.com
   - DOMAIN,usr.interactiveone.com
   - DOMAIN,usrkrz.zdravcity.ru
+  - DOMAIN,usrzh.cn
   - DOMAIN,ussolutions.equifax.com
   - DOMAIN,ussportabout.com
   - DOMAIN,ussportpioneer.com
@@ -104034,6 +104037,7 @@ payload:
   - DOMAIN,utiq.24auto.de
   - DOMAIN,utiq.24hamburg.de
   - DOMAIN,utiq.24rhein.de
+  - DOMAIN,utiq.actu.fr
   - DOMAIN,utiq.buzzfeed.de
   - DOMAIN,utiq.come-on.de
   - DOMAIN,utiq.einfach-tasty.de
