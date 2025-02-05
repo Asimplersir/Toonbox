@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 113446
-# 更新时间: 2025-02-05 19:56:47
+# 规则数量: 113450
+# 更新时间: 2025-02-06 07:56:55
 
 no_resolve: true
 domain_set:
@@ -22868,6 +22868,7 @@ domain_suffix_set:
 - code.r5hsid.ru
 - code.randomhouse.com
 - code.usergram.info
+- code.wenbanzhu.com
 - codebiogblog.com
 - codedexchange.com
 - codeexplain.com
@@ -68315,6 +68316,7 @@ domain_suffix_set:
 - omjtca.emlakjet.com
 - omkxadadsh.com
 - omlbaftroofj.com
+- ommatht.com
 - ommjkomvweg.com
 - omn.americanexpress.com
 - omn.costumesupercenter.com
@@ -97230,6 +97232,7 @@ domain_suffix_set:
 - tnjvz.cn
 - tnjxxv.setre.com
 - tnkexchange.com
+- tnlixn.icu
 - tnmpd.xyz
 - tnnrri.milujeme-slevy.cz
 - tnpads.xyz
@@ -103019,6 +103022,7 @@ domain_suffix_set:
 - u78s.top
 - u7em6.xyz
 - u7s546.com
+- u7y.pw
 - u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me
 - u803vs7fuhn5w9p5.k45ki53dq.com
 - u833ij.com
